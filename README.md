@@ -1,3 +1,3 @@
 # martini
 my repository
-this is the begging of my coding journey.
+this is the begining of my coding journey.
